@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "JOSHUA",
+    "apellido": "NAVARRO",
+    "mensajes": [
+      { "id": 1, "contenido": "Hola" }
+    ],
+    "direcciones": [
+      { "id": 1, "direccion": "Jr. alfoso ugarte" },
+      { "id": 2, "direccion": "Las fronteras" }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "YULY",
+    "apellido": "LADINO",
+    "mensajes": [
+      { "id": 1, "contenido": "Hola" }
+    ],
+    "direcciones": [
+      { "id": 1, "direccion": "Jr. alfoso ugarte" },
+      { "id": 2, "direccion": "Las fronteras" }
+    ]
+  }
+]
