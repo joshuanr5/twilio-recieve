@@ -21,7 +21,8 @@ app.use(routes);
 // GET /usuarios/1            -> Detalle del usuario con ID 1
 // POST /usuarios/             -> Crear un usuario
 
+const port = process.env.PORT || 8080
 
-app.listen(8080, () => {
-  console.log('Conectado en el puerto 8080');
-});
+app.listen(port, () => {
+  console.log('Conectado en el puerto', port);
+}); undefined
